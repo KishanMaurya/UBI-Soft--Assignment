@@ -1,0 +1,26 @@
+label{
+	font-weight: 700;
+}
+button[type='submit'],button[type='reset']{
+	font-size: 700;
+}
+
+input[type='text'],input[type='file']{
+	background: whitesmoke !important;
+	font-size: 700 !important;
+}
+textarea{
+	resize: none !important;
+}
+
+.borderRadius{
+	border-radius: 25px;
+	font-weight: thin !important;
+	font-synthesis: weight style;
+}
+
+.font{
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+}
