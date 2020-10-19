@@ -1,0 +1,5 @@
+# UBI-Soft--Assignment
+User can register the multiple items and display it on home page. In display window section at a time only 6 items can be visible. Rest of items should be remain in queue. So for example if user registered 26 items then first 6 items will need to show in display window section and rest of 20 items will remain in queue. After 30 seconds of time interval (manual page refresh after 30 seconds will also fine), first item will be remove from display window section, and pull one item from the queue list. It should be follow FIFO (First in First Out) method rules. (Now this time 19 items will be remain in queue) Once all items pull out from queue then last 6 should remain stick in display window.  NOTE: minimum 6 items should have to maintain in display window section.
+![Screenshot_17](https://user-images.githubusercontent.com/45098599/96403646-81120180-11f6-11eb-8572-e54ecaae17b8.png)
+![Screenshot_1](https://user-images.githubusercontent.com/45098599/96403650-81aa9800-11f6-11eb-9b5d-18c12df9e1b3.png)
+![Screenshot_2](https://user-images.githubusercontent.com/45098599/96403653-82dbc500-11f6-11eb-8acf-87d82cdab75c.png)
